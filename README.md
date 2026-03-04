@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Aamen 👋
 
-<!--
-**Aamenkhan/Aamenkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Flutter Developer | Ecommerce Builder
 
-Here are some ideas to get you started:
+I build powerful mobile apps and ecommerce systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 What I Build
+• Flutter Mobile Apps  
+• Shopify Ecommerce Apps  
+• Payment & Automation Tools  
+
+## 📱 My Projects
+🔹 Thtwaat Ecommerce Flutter App  
+🔹 iPayClub Payment App  
+
+## 🌍 Available for Freelance Projects
+I help businesses convert Shopify stores into mobile apps.
+
+## 🛠 Tech Stack
+Flutter • Firebase • Shopify • REST APIs • AI Tools
+
+## 📩 Contact
+Email: thtwaat@gmail.com
