@@ -1,23 +1,31 @@
-# Hi, I'm Aamen 👋
+# Hi, I'm Anish 👋
 
-🚀 Flutter Developer | Ecommerce Builder
+🚀 Developer | Business Builder
 
-I build powerful mobile apps and ecommerce systems.
+## 💡 About Me
 
-## 🧑‍💻 What I Build
-• Flutter Mobile Apps  
-• Shopify Ecommerce Apps  
-• Payment & Automation Tools  
+I build real-world apps and tools that help businesses grow and make money.
 
-## 📱 My Projects
-🔹 Thtwaat Ecommerce Flutter App  
-🔹 iPayClub Payment App  
+## 🛠 What I Build
 
-## 🌍 Available for Freelance Projects
-I help businesses convert Shopify stores into mobile apps.
+* 📱 Mobile Apps
+* 🛒 Ecommerce Systems
+* 🤖 Automation Tools
 
-## 🛠 Tech Stack
-Flutter • Firebase • Shopify • REST APIs • AI Tools
+## 💻 My Projects
+
+* POS System (Billing + Inventory)
+* WhatsApp Bot (Auto Reply + Orders)
+* AI Tool (Business Automation)
+
+## 💰 Available for Freelance
+
+I help businesses build apps, automation systems, and ecommerce solutions.
+
+## ⚙️ Tech Stack
+
+Flutter • Firebase • APIs • AI Tools
 
 ## 📩 Contact
-Email: thtwaat@gmail.com
+
+Email: [your@email.com](mailto:your@email.com)
