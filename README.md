@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Anish Khan Banner">
+</p>
+
+<br>
 <h1 align="center">Hi 👋, I'm Anish Khan</h1>
 
 <h3 align="center">
